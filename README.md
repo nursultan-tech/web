@@ -37,6 +37,11 @@
   
   
   1 connecting to sweager 
+  
+  also you can check
+  
+  1 Backend: https://final-java-backend.herokuapp.com/api/main
+  2 Swagger: https://final-java-backend.herokuapp.com/swagger-ui.html#/
 
 YouTube link: https://youtu.be/0DPalpjV5YU
 ![alt text](screenshots/gigi.png)
